@@ -1,0 +1,17 @@
+{
+  "name": "node-grpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "proto:gen": "./proto-gen.sh",
+    "start": "ts-node server",
+    "client": "ts-node client"
+  },
+  "devDependencies": {
+    "@grpc/grpc-js": "^1.3.2",
+    "@grpc/proto-loader": "^0.6.2",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  }
+}
