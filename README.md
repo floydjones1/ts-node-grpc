@@ -1,5 +1,5 @@
 # ts-node-grpc
-Just a quick example of a gRPC server made with typescript and node js!
+Just a quick example of a gRPC server made with typescript and node js! [Video link](https://youtu.be/0cxEVcALoxc)
 It contains 4 different examples:
 1. Unary
 2. Server Streaming
